@@ -50,3 +50,5 @@ myds.synology.com
 payment.synology.com
 sns.synology.com
 
+# Test
+0.0.0.0 boersennews.de
