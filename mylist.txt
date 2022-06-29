@@ -44,3 +44,5 @@
 
 # Test
 0.0.0.0 boersennews.de
+0.0.0.0 www.boersennews.de
+
