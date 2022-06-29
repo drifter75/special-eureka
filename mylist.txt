@@ -15,40 +15,32 @@
 
 # Phishing lists https://trainax.github.io/PiHoleLists/lists/Phishing.txt
 
-www.inserimento-portale.it
-www.lnformacliente-sicuezzaapp.com
-control-security.000webhostapp.com
-webisp.gruppointesaisp.com
-gestionecontoweb.unaux.com
+0.0.0.0 www.inserimento-portale.it
+0.0.0.0 www.lnformacliente-sicuezzaapp.com
+0.0.0.0 control-security.000webhostapp.com
+0.0.0.0 webisp.gruppointesaisp.com
+0.0.0.0 gestionecontoweb.unaux.com
 
 
 
 # Scam list https://trainax.github.io/PiHoleLists/lists/Scam.txt
 
-cdn.cluodlfare.com
-appleid-apple-id.support
+0.0.0.0 cdn.cluodlfare.com
+0.0.0.0 appleid-apple-id.support
 
 
 # Tracking list https://trainax.github.io/PiHoleLists/lists/Tracking.txt
 
-tracklink.leadmoboffer.com
-adstacks.gotrackier.com
+0.0.0.0 tracklink.leadmoboffer.com
+0.0.0.0 adstacks.gotrackier.com
 
-
-# Phishing lists https://trainax.github.io/PiHoleLists/lists/Phishing.txt
-
-www.inserimento-portale.it
-www.lnformacliente-sicuezzaapp.com
-control-security.000webhostapp.com
-webisp.gruppointesaisp.com
-gestionecontoweb.unaux.com
 
 # Synology https://raw.githubusercontent.com/bloodhunterd/pi-hole-blocklists/master/Synology.txt
-checkip.synology.com
-checkipv6.synology.com
-myds.synology.com
-payment.synology.com
-sns.synology.com
+0.0.0.0 checkip.synology.com
+0.0.0.0 checkipv6.synology.com
+0.0.0.0 myds.synology.com
+0.0.0.0 payment.synology.com
+0.0.0.0 sns.synology.com
 
 # Test
 0.0.0.0 boersennews.de
