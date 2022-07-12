@@ -43,8 +43,8 @@
 0.0.0.0 sns.synology.com
 
 # Test
-boersennews.de
-www.boersennews.de
+# boersennews.de
+# www.boersennews.de
 
 # ioam.de
 cubes010.ioam.de
