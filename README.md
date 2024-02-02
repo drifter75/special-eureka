@@ -1,10 +1,8 @@
 # special-eureka
 
 
-Adding colour for text in markdown.
 
-<code><span style='color:yellow'> Material for MkDocs .</span></code>
-
+<span style='color:yellow'> Material for MkDocs .</span>
 
 <span style="color: blue;">Material for MkDocs.
 
