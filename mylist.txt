@@ -52,8 +52,15 @@ googleads.g.doubleclick.net
 
 
 # Synology https://raw.githubusercontent.com/bloodhunterd/pi-hole-blocklists/master/Synology.txt
-0.0.0.0 checkip.synology.com
+0.0.0.0 pkgautoupdate.synologyupdate.com
+0.0.0.0 pkgupdate7.synology.com.lan
+0.0.0.0 pkgupdate7.synology.com
 0.0.0.0 checkipv6.synology.com
+0.0.0.0 autoupdate7.synology.com.lan
+0.0.0.0 autoupdate7.synology.com
+0.0.0.0 checkip.dyndns.org
+0.0.0.0 checkip.synology.com
+0.0.0.0 update7.synology.com.lan
 0.0.0.0 myds.synology.com
 0.0.0.0 payment.synology.com
 0.0.0.0 sns.synology.com
