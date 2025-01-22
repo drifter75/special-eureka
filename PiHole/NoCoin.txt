@@ -1,13 +1,10 @@
-!
-! Title: NoCoin Filter List
-! Description: List for blocking browser-based crypto mining
-! Version: 1.0.14.51
-! Homepage: https:
-! Last modified: 2025-01-13T12:01:28.603Z
-!
-! Compiled by @adguard
-!
-
+# Title: NoCoin Filter List
+# Description: List for blocking browser-based crypto mining
+# Version: 1.0.14.51
+# Homepage: https:
+# Last modified: 2025-01-13T12:01:28.603Z
+# Compiled by @adguard
+#
 0.0.0.0 1q2w3.fun
 0.0.0.0 abc.pema.cl
 0.0.0.0 acbp0020171456.page.tl
