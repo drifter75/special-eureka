@@ -20,50 +20,50 @@ googleads.g.doubleclick.net
 
 # 20240209 end
 
-0.0.0.0 d5k6iufjynyu8.cloudfront.net
-0.0.0.0 share.baidu.com
-0.0.0.0 social.dw.de
-0.0.0.0 twitter-badges.s3.amazonaws.com
-0.0.0.0 d5k6iufjynyu8.cloudfront.net
-0.0.0.0 share.baidu.com
-0.0.0.0 social.dw.de
-0.0.0.0 twitter-badges.s3.amazonaws.com
+d5k6iufjynyu8.cloudfront.net
+share.baidu.com
+social.dw.de
+twitter-badges.s3.amazonaws.com
+d5k6iufjynyu8.cloudfront.net
+share.baidu.com
+social.dw.de
+twitter-badges.s3.amazonaws.com
 
 # Phishing lists https://trainax.github.io/PiHoleLists/lists/Phishing.txt
 
-0.0.0.0 www.inserimento-portale.it
-0.0.0.0 www.lnformacliente-sicuezzaapp.com
-0.0.0.0 control-security.000webhostapp.com
-0.0.0.0 webisp.gruppointesaisp.com
-0.0.0.0 gestionecontoweb.unaux.com
+www.inserimento-portale.it
+www.lnformacliente-sicuezzaapp.com
+control-security.000webhostapp.com
+webisp.gruppointesaisp.com
+gestionecontoweb.unaux.com
 
 
 
 # Scam list https://trainax.github.io/PiHoleLists/lists/Scam.txt
 
-0.0.0.0 cdn.cluodlfare.com
-0.0.0.0 appleid-apple-id.support
+cdn.cluodlfare.com
+appleid-apple-id.support
 
 
 # Tracking list https://trainax.github.io/PiHoleLists/lists/Tracking.txt
 
-0.0.0.0 tracklink.leadmoboffer.com
-0.0.0.0 adstacks.gotrackier.com
+tracklink.leadmoboffer.com
+adstacks.gotrackier.com
 
 
 # Synology https://raw.githubusercontent.com/bloodhunterd/pi-hole-blocklists/master/Synology.txt
-0.0.0.0 pkgautoupdate.synologyupdate.com
-0.0.0.0 pkgupdate7.synology.com.lan
-0.0.0.0 pkgupdate7.synology.com
-0.0.0.0 checkipv6.synology.com
-0.0.0.0 autoupdate7.synology.com.lan
-0.0.0.0 autoupdate7.synology.com
-0.0.0.0 checkip.dyndns.org
-0.0.0.0 checkip.synology.com
-0.0.0.0 update7.synology.com.lan
-0.0.0.0 myds.synology.com
-0.0.0.0 payment.synology.com
-0.0.0.0 sns.synology.com
+pkgautoupdate.synologyupdate.com
+pkgupdate7.synology.com.lan
+pkgupdate7.synology.com
+checkipv6.synology.com
+autoupdate7.synology.com.lan
+autoupdate7.synology.com
+checkip.dyndns.org
+checkip.synology.com
+update7.synology.com.lan
+myds.synology.com
+payment.synology.com
+sns.synology.com
 
 # Test
 # boersennews.de
@@ -260,15 +260,15 @@ xpu.samsungelectronics.com
 
 
 #https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
-0.0.0.0 cdn.appround.biz
-0.0.0.0 cdn.download.sweetpacks.com
-0.0.0.0 cdn.insta.playbryte.com
-0.0.0.0 cdn.msdwnld.com
-0.0.0.0 cdn.mypcbackup.com
-0.0.0.0 inno.bisrv.com
-0.0.0.0 installer.betterinstaller.com
-0.0.0.0 nsis.bisrv.com
-0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
+cdn.appround.biz
+cdn.download.sweetpacks.com
+cdn.insta.playbryte.com
+cdn.msdwnld.com
+cdn.mypcbackup.com
+inno.bisrv.com
+installer.betterinstaller.com
+nsis.bisrv.com
+tracking.opencandy.com.s3.amazonaws.com
 
 
 #https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Misc/Device9domains-IPv4.txt
@@ -276,14 +276,14 @@ xpu.samsungelectronics.com
 #Included in default hosts file
 #Last update 05/06/2019
 
-0.0.0.0 tag.device9.com
-0.0.0.0 t.device9.com
-0.0.0.0 www.device9.com
-0.0.0.0 tag.device9.net
-0.0.0.0 t.device9.net
-0.0.0.0 www.device9.net
-0.0.0.0 device9.com
-0.0.0.0 device9.net
+tag.device9.com
+t.device9.com
+www.device9.com
+tag.device9.net
+t.device9.net
+www.device9.net
+device9.com
+device9.net
 
 
 
