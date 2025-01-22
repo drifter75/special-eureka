@@ -259,7 +259,7 @@ xpu.samsungelectronics.com
 
 
 
-# https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+#https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.download.sweetpacks.com
 0.0.0.0 cdn.insta.playbryte.com
@@ -269,5 +269,21 @@ xpu.samsungelectronics.com
 0.0.0.0 installer.betterinstaller.com
 0.0.0.0 nsis.bisrv.com
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
+
+
+#https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/Misc/Device9domains-IPv4.txt
+#Device9 Domains IPv4 Version
+#Included in default hosts file
+#Last update 05/06/2019
+
+0.0.0.0 tag.device9.com
+0.0.0.0 t.device9.com
+0.0.0.0 www.device9.com
+0.0.0.0 tag.device9.net
+0.0.0.0 t.device9.net
+0.0.0.0 www.device9.net
+0.0.0.0 device9.com
+0.0.0.0 device9.net
+
 
 
