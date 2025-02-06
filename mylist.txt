@@ -7,8 +7,6 @@ gamesathletes.com
 
 #MS-Office-Telemetry
 hubblecontent.osi.office.net
-us-mobile.events.data.microsoft.com
-
 
 #Movinf from blocklist
 jnn-pa.googleapis.com
